@@ -1,0 +1,9 @@
+@media screen and (max-width:1200px){
+    @deskstop-nav(
+        display: none;
+    )
+}
+@babby-nav{
+    display: flex;
+}
+    
